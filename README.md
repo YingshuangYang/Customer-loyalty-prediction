@@ -5,7 +5,7 @@ The goal is to develop a model that identifies high-loyalty customers based on t
 By accurately predicting customer loyalty, the company can optimize its marketing strategy and promote sales by targeting the right customers with personalized promotions.
 
 ## Final Report
-
+https://github.com/YingshuangYang/Customer-loyalty-prediction/blob/4233a472fdc1cfb4065f1a05da9804b1f438158b/Elo_Merchant_Category_Recommendation_Report.pdf
 ## Dataset
 Source: https://www.kaggle.com/competitions/elo-merchant-category-recommendation/data
 ## How to Run
